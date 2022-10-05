@@ -9,3 +9,6 @@ def multiply(x,y):
 
 def divide(x,y):
     return x/y
+
+def concat(a,b):
+    return f"{a}.{b}"
